@@ -77,4 +77,4 @@ def parse_int(string):
     list = string.split(" ")
     return result(list)
 
-print(parse_int("three hundred fifty six thousand nine hundred eighty one"))
+print(parse_int("_"))
