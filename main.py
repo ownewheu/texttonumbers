@@ -77,4 +77,5 @@ def parse_int(string):
     list = string.split(" ")
     return result(list)
 
-print(parse_int("_"))
+x = input("Write the number:")
+print(parse_int(x))
